@@ -1,0 +1,17 @@
+{
+  "name": "clothing-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A handy discord bot for checking the quantity of clothing a user owns from a group.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ./bot/bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meta_data",
+  "license": "Proprietary - veo",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "phin": "^3.4.1"
+  }
+}
